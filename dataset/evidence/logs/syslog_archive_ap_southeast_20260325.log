@@ -1,3 +1,5 @@
+
+python code/main.py
 2026-03-25T08:51:13Z <15>1 node-8 log_router collector-7 - - level=DEBUG instance="collector-7" event="export_started" sources="platform_services" expected_source_events="109"
 2026-03-25T08:51:15Z <15>1 node-1 support_platform tr-7458912 - - level=DEBUG instance="support-4" pod="support-6150" region="ap-south-1" event="message_scan_started" subject_key="silva.mariana@icloud.com" attempt="1"
 2026-03-25T08:51:21Z <15>1 node-1 support_platform tr-7458912 - - level=DEBUG instance="support-4" pod="support-6150" region="ap-south-1" event="connection_acquired" pool="support_platform_primary" wait_ms="1"
